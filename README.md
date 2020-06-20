@@ -12,8 +12,9 @@
 - [Project 02 - Stopwatch](https://github.com/M1zz/Stopwatch)
   - 블로그 글 [보러가기](https://dev200ok.blogspot.com/2020/06/swift-30-projects-02-ios-stopwatch.html)  
 - [Project 03 - FacebookMe](https://github.com/M1zz/FacebookMe)
-  - 블로그 글 보러가기	 
-- Project 04 - TodoTDD
+  - 블로그 글 [보러가기](https://dev200ok.blogspot.com/2020/06/swift-30-projects03-ios-facebookme.html)	 
+- [Project 04 - TodoTDD]()
+  - 블로그 글 [보러가기]()
 - Project 05 - Artistry
 - Project 06 - CandySearch  
 - Project 07 - PokedexGo
