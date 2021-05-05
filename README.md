@@ -16,8 +16,9 @@
 - [Project 04 - TodoTDD](https://github.com/M1zz/TodoTDD)
   - 블로그 글 [보러가기](https://dev200ok.blogspot.com/2021/04/swift-30-projects-03-ios-todotdd.html)
 - [Project 05 - Artistry](https://github.com/M1zz/Artistry)
+  - 블로그 글 [보러가기](https://dev200ok.blogspot.com/2021/05/swift-30-projects-05-ios-artistry.html) 
+- [Project 06 - CandySearch](https://github.com/M1zz/CandySearch)  
   - 블로그 글 [보러가기](링크) 
-- Project 06 - CandySearch  
 - Project 07 - PokedexGo
 - Project 08 - SimpleRSSReader
 - Project 09 - PhotoScroll
