@@ -19,8 +19,9 @@
   - 블로그 글 [보러가기](https://dev200ok.blogspot.com/2021/05/swift-30-projects-05-ios-artistry.html) 
 - [Project 06 - CandySearch](https://github.com/M1zz/CandySearch)  
   - 블로그 글 [보러가기](링크) 
-- Project 07 - PokedexGo
-- Project 08 - SimpleRSSReader
+- Project 07 - PokedexGo - 나중으로 미룸
+- [Project 08 - SimpleRSSReader](https://github.com/M1zz/SimpleRSSReader)
+  - 블로그 글 [보러가기](링크)  
 - Project 09 - PhotoScroll
 - Project 10 - Interests
 - Project 11 - Animations
